@@ -22,7 +22,7 @@ The Game does not use cookies.
 
 ## Service Providers
 
-I do not employ third-party companies or individuals to facilitate my Game ("Service Providers"), and I do not share any information with them.
+I do not employ third-party companies or individuals to facilitate my Game, and I do not share any information with them.
 
 ## Security
 

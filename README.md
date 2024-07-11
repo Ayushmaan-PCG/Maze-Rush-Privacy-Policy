@@ -10,7 +10,7 @@ I do not collect any personally identifiable information in the Maze Rush.
 
 ## Link to Privacy Policy of Third Party Service Providers Used by the Game
 
-- Google Play Services
+- <a href="https://policies.google.com/privacy">Google Play Services</a>
 
 ## Log Data
 
@@ -44,5 +44,5 @@ I may update my Privacy Policy from time to time. I will notify you of any chang
 
 If you have any questions about this Privacy Policy, please contact us:
 - By email: proappdeveloper1010@gmail.com
-- By visiting this page on our website: [Your Website URL]
+- By visiting this page on our website: https://github.com/Ayushmaan-PCG
 - By phone number: +19163809172
